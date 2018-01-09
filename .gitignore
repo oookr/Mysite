@@ -1,1 +1,6 @@
-﻿#boot/sock/settings.py
+﻿#foes settings ;)
+boot/sock/settings.py
+#foes __init__.py
+boot/sock/__init__.py
+#folder __pycache__
+boot/sock/__pycache__/

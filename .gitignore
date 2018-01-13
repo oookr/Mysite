@@ -4,6 +4,14 @@ boot/sock/settings.py
 #foes __init__.py
 boot/sock/__init__.py
 
+
+boot/sock/__pycache__/
+boot/sock/migrations/
+boot/home/__pycache__/
+boot/home/migrations/
+boot/about_us/__pycache__/
+boot/about_us/migrations/
+
 #extension .pyc
 **.pyc
 *.pyc

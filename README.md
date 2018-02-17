@@ -9,15 +9,8 @@
 #### "running python manage.py runserver" cancel "[Ctrl + C or Ctrl + Pause Break].
 
 
-Clone [this project on GitHub][github] and dont't forget to send me patches! :-)
+Clone [github] and dont't forget to send me patches! :-)
 
 
 
 [github]: http://github.com
-[this project on GitHub]: http://www.apple.com
-
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/svetlyak40wt/django-perfect404/trend.png)]
-(https://bitdeli.com/free "Bitdeli Badge")

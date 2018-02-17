@@ -9,6 +9,6 @@
 #### "running python manage.py runserver" cancel "[Ctrl + C or Ctrl + Pause Break].
 
 
-my [github] oookr
+[my github]
 
 [github]:http://github.com/oookr

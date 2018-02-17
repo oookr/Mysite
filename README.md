@@ -9,8 +9,5 @@
 #### "running python manage.py runserver" cancel "[Ctrl + C or Ctrl + Pause Break].
 
 
-Clone [github] and dont't forget to send me patches! :-)
-
-
-
-[github]: http://github.com
+[github]
+[github]: http://github.com/oookr

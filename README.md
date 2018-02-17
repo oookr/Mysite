@@ -14,7 +14,7 @@ Clone [this project on GitHub][github] and dont't forget to send me patches! :-)
 
 
 [github]: http://github.com
-[article]: http://www.apple.com
+[this project on GitHub]: http://www.apple.com
 
 
 

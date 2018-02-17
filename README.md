@@ -13,10 +13,8 @@ Clone [this project on GitHub][github] and dont't forget to send me patches! :-)
 
 
 
-[github]: http://github.com/svetlyak40wt/django-perfect404/
-
-[article]: http://www.alistapart.com/articles/perfect404/
-
+[github]: http://github.com
+[article]: http://www.apple.com
 
 
 

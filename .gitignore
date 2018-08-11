@@ -11,8 +11,3 @@
 #extension .pyc
 **.pyc
 *.pyc
-Mysite
-db.sqlite3
-mainApp/
-manage.py
-README.md

@@ -1,19 +1,18 @@
 ﻿#foes settings ;)
-boot/sock/settings.py
+*settings.py
 
 #foes __init__.py
-boot/sock/__init__.py
+*__init__.py
 
 
-boot/sock/__pycache__
-boot/sock/migrations
-boot/home/__pycache__
-boot/home/migrations
-boot/about_us/__pycache__
-boot/about_us/migrations
+*__pycache__
+*migrations
 
 #extension .pyc
 **.pyc
 *.pyc
-/**.pyc
-/*.pyc
+Mysite
+db.sqlite3
+mainApp/
+manage.py
+README.md

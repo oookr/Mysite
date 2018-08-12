@@ -17,6 +17,5 @@ Work with the console (cmd, git bash ...).
     cd Mysite
 ### Runing project(Server)
     python manage.py runserver
-
 ### You have successfully launched the server.
 ##### Go to the specified link (usually http://127.0.0.1:8000/), you will go to the server.

@@ -5,7 +5,6 @@
 *__init__.py
 
 *__pycache__
-*migrations
 
 #extension .pyc
 *.pyc

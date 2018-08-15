@@ -1,10 +1,10 @@
 ﻿#foes settings ;)
 *settings.py
 
+*__pycache__
+
 #foes __init__.py
 *__init__.py
-
-*__pycache__
 
 #extension .pyc
 *.pyc

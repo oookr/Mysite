@@ -20,4 +20,4 @@ Work with the console (cmd, git bash ...).
 ### You have successfully launched the server.
 ##### Go to the specified link (usually http://127.0.0.1:8000/), you will go to the server.
 
-##### [HTTP Status Messages](https://www.w3schools.com/tags/ref_httpmessages.asp
+##### [HTTP Status Messages](https://www.w3schools.com/tags/ref_httpmessages.asp)

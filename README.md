@@ -21,3 +21,5 @@ Work with the console (cmd, git bash ...).
 ##### Go to the specified link (usually http://127.0.0.1:8000/), you will go to the server.
 
 ##### [HTTP Status Messages](https://www.w3schools.com/tags/ref_httpmessages.asp)
+
+#### [Funny EMOJI](https://www.webfx.com/tools/emoji-cheat-sheet/) for github

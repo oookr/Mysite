@@ -1,14 +1,12 @@
 ﻿#foes settings ;)
 *settings.py
-
-*__pycache__
-
+#extension .pyc
 #foes __init__.py
 *__init__.py
 
-#extension .pyc
 *.pyc
-
+*__pycache__
 *.zip
-
 *.ignore
+
+*logo.ico

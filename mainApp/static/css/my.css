@@ -2,13 +2,19 @@
 /*CSS Document*/
 
 .hero-box {
-	height: 338px;
+	height: 500px;
 	background-color: lightpink;
 	background-image: url(../mainApp/images/000027.jpg);
 	background-size: cover;
 	margin: 1%;
-}
 
+}
+.box-hero {
+	color: #E7C473;
+	font-size: 55px;
+	padding-top: 120px;
+	padding-left: 30px; 
+}
 .col img {
 	width: 100%;
 	height: auto;

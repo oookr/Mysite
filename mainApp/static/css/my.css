@@ -1,2 +1,22 @@
 @charset "UTF-8";
 /*CSS Document*/
+
+.hero-box {
+	height: 338px;
+	background-color: lightpink;
+	background-image: url(images/img1.jpg);
+	background-size: cover;
+	margin: 1%;
+}
+
+.col img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.col {
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+}

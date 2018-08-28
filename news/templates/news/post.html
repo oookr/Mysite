@@ -2,6 +2,6 @@
 
 {% block content %}
 	<h2 class="test-info">{{articles.title}}</h2>
-	<h6 class="test-info">Published: {{articles.date|date:"Y-m-d в H:i:s"}}</h6>
+	<h6 class="test-info">Published: {{articles.date|date:"Y-m-d | H:i:s"}}</h6>
 	<p>{{articles.post|safe|linebreaks}}</p>
 {% endblock %}

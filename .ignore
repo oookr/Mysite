@@ -1,2 +1,4 @@
-/* HI */
-something
+/* istanbul ignore else  */
+if (foo.hasOwnProperty('bar')) {
+    // do something
+}
